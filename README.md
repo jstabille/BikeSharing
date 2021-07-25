@@ -7,7 +7,7 @@ In order to complete this analysis, I used Python's pandas library to clean up t
 
 ## Results
 
-Throughout this analysis I wanted to answer the following questions:
+Throughout this analysis the following questions will be properly answered:
 
 1. How long do users bike for?
 2. Who is using the bikes?
