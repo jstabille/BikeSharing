@@ -20,7 +20,7 @@ To answer these questions I came up with the following visualizations.
 
 This visualization shows the length of time of every bike ride during the month of August in 2019. It shows that riders typically like to bike between 2 and 15 minutes.
 
-![checkout_times_fo_users](https://github.com/Wall-E28/bikesharing_analysis/blob/main/visualizations/checkout_time_for_users.png)
+![checkout_times_fo_users](/visualizations/checkout_time_for_users.png)
 
 ### Who is using the bikes?
 
