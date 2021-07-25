@@ -50,6 +50,8 @@ To further these findings, this visualization shows a similar patterns when brok
 ![trips_by_gender](/visualizations/trips_by_gender.png)
 
 ## Summary
+Rides tend to be short, the users of the service tend to be male, and it appears the biggest use case and timing is for commuting to typical business hour jobs. The analysis concludes that we should focus our business on commuting men to see similar success to that of Citibike in New York, and since there are also plenty of male commuters in Des Moines, we should be able to find success.
+
 
 Based on the findings above, these are the top takeaways to create a successful citi bike program in De Moines.
 
