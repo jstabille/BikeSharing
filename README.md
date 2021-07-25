@@ -59,4 +59,4 @@ Based on the findings above, these are the top takeaways to create a successful 
 
 For a more in depth and interactive view of this analysis, checkout the Tableau link below
 
-[link to dashboard](https://public.tableau.com/profile/riley4086#!/vizhome/NYCCitiBikeAnalysis_16031262141460/NYCCitiBikeAnalysis?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/jeferson.stabille/viz/NYCCitiBikeAnalysis_16271872784420/NYCCitiBikeAnalysis)
