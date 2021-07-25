@@ -14,8 +14,6 @@ Throughout this analysis the following questions will be properly answered:
 3. Where are they biking to and from?
 4. When are users using the bikes?
 
-To answer these questions I came up with the following visualizations.
-
 ### How long do users bike for?
 
 This visualization shows the length of time of every bike ride during the month of August in 2019. It shows that riders typically like to bike between 2 and 15 minutes.
